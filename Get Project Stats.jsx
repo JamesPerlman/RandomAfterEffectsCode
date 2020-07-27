@@ -1,6 +1,5 @@
 // To run this script after downloading it, go to File > Scripts > Run Script File, and then find and select it.
 // Made by jperl
-// Dedicated to cache_bunny who makes awesome videos and requested the script
 
 function numberWithCommas(x) {
     return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
